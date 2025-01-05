@@ -1,5 +1,5 @@
 {
-  "welcome_to_chat_flow": "Welcome to MyDoctor",
+  "welcome_to_my_doctor": "Welcome to MyDoctor",
   "chat_easily_with_friends_using_chat_flow": "Chat easily with a doctor using MyDoctor, your go-to platform for seamless consultation.",
   "get_started": "Get Started",
   "forgot_password": "Forgot Password",
@@ -186,6 +186,10 @@
   "firebase_auth/weak-password": "The password is too weak.",
   "default_error": "An unexpected error occurred. Please try again.",
   "firebase_auth/invalid-credential":"The supplied auth credential is incorrect, malformed or has expired.",
+  "doctor_account_not_found":"Doctor Account Not Found",
+  "patient_account_not_found":"Patient Account Not Found",
+  "chat_with_a_doctor": "Chat With A Doctor!",
+  "find_care": "Find Care",
   "specialties": [
     "Cardiology",
     "Dermatology",
